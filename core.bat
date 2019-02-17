@@ -13,3 +13,4 @@ openvpn ^
 qbittorrent ^
 slack ^
 telegram ^
+lightshot ^
