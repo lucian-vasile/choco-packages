@@ -1,5 +1,5 @@
 choco install -y ^
-chrome ^
+googlechrome ^
 notepadplusplus.install ^
 foxitreader ^
 bulk-crap-uninstaller ^
@@ -14,3 +14,5 @@ qbittorrent ^
 slack ^
 telegram ^
 lightshot ^
+io-unlocker ^
+diskspd ^
