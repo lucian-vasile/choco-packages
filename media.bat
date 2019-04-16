@@ -4,6 +4,7 @@ fsresizer.install ^
 steam ^
 vlc ^
 mkvtoolnix ^
+winamp ^
 
 
 curl -o %TEMP%/spotify.exe -L https://www.spotify.com/ro/download/
