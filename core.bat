@@ -1,7 +1,7 @@
 choco install -y ^
 googlechrome ^
 notepadplusplus.install ^
-foxitreader ^
+adobereader ^
 bulk-crap-uninstaller ^
 firefox ^
 7zip.install ^
