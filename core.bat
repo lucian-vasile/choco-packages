@@ -16,3 +16,5 @@ telegram ^
 lightshot ^
 io-unlocker ^
 diskspd ^
+jre8 ^
+freemind ^
