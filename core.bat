@@ -10,11 +10,7 @@ whatsapp ^
 teamviewer ^
 libreoffice-fresh ^
 openvpn ^
-qbittorrent ^
-slack ^
 telegram ^
 lightshot ^
 io-unlocker ^
 diskspd ^
-jre8 ^
-freemind ^
