@@ -17,7 +17,8 @@ smartty3 ^
 nodejs-lts ^
 docker-desktop ^
 imagemagick ^
-
+jre8 ^
+freemind ^
 
 curl -o %TEMP%/hubstaff.exe -L https://app.hubstaff.com/download/windows
 start %TEMP%/hubstaff.exe
