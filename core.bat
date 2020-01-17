@@ -14,3 +14,4 @@ telegram ^
 lightshot ^
 io-unlocker ^
 diskspd ^
+choco install powershell-core ^
